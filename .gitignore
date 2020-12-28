@@ -34,3 +34,4 @@ npm-debug.log
 .eslintcache*
 .dir-locals.el
 .projectile
+.log/
